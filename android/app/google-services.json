@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "811323156331",
+    "project_id": "test-flutter-55267",
+    "storage_bucket": "test-flutter-55267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811323156331:android:66cef0bf88a18ef5868e2e",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811323156331-iek6c6jrgq5mlla0dl53rbdk7cf74nni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5S5NdLbGkJtkUDxuHuUgAIiZVTQAmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811323156331-iek6c6jrgq5mlla0dl53rbdk7cf74nni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811323156331:android:91b44caa02cb13c0868e2e",
+        "android_client_info": {
+          "package_name": "com.example.tasks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811323156331-iek6c6jrgq5mlla0dl53rbdk7cf74nni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5S5NdLbGkJtkUDxuHuUgAIiZVTQAmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811323156331-iek6c6jrgq5mlla0dl53rbdk7cf74nni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811323156331:android:35cf339f78369112868e2e",
+        "android_client_info": {
+          "package_name": "com.example.yarb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811323156331-bt2qqca86ettlnikjtunlc3cntdr643n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yarb",
+            "certificate_hash": "e42a4ac06f3654b4603c41ae61c2435779ac6844"
+          }
+        },
+        {
+          "client_id": "811323156331-iek6c6jrgq5mlla0dl53rbdk7cf74nni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5S5NdLbGkJtkUDxuHuUgAIiZVTQAmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811323156331-iek6c6jrgq5mlla0dl53rbdk7cf74nni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
